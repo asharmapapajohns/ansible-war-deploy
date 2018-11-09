@@ -1,7 +1,7 @@
 ---
 - hosts: tomcatServer
   vars:
-  - warName: helloworld.war
+  - warName: exportCustomerList-0.0.1-20181108.101450-1.war
   - warRemotePath: /path/to/put/war
 
   tasks:
